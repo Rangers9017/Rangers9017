@@ -4,7 +4,6 @@
 
 📍 Ankara, Türkiye  
 🎓 B.Sc. in Electrical & Electronics Engineering — Kırıkkale University  
-🔗 [LinkedIn](https://www.linkedin.com/)
 
 I'm an Electrical & Electronics Engineer interested in embedded software, industrial automation, motion control, and computer vision. I enjoy developing software that connects hardware, communication systems, and real-world applications.
 
