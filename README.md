@@ -101,6 +101,8 @@ ROS 2 · PX4 · Docker · WPF
 
 ## 📌 Featured Repositories
 
+- [PCB & Communication Workbench](https://github.com/Rangers9017/pcb-communication-workbench)
+- [Desktop Crosshair Overlay](https://github.com/Rangers9017/desktop-crosshair-overlay)
 - [Privacy-First Micro Tools](https://github.com/Rangers9017/privacy-first-micro-tools)
 - [OpenCV RTSP Stream Viewer](https://github.com/Rangers9017/opencv-rtsp-stream-viewer)
 - [ONVIF + RTSP Camera Viewer](https://github.com/Rangers9017/onvif-rtsp-camera-controller)
