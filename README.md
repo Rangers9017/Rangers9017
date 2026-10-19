@@ -101,6 +101,8 @@ ROS 2 · PX4 · Docker · WPF
 
 ## 📌 Featured Repositories
 
+- [DroneCalc Pro](https://github.com/Rangers9017/drone-performance-calculator)
+- [LAN Bandwidth Tester](https://github.com/Rangers9017/lan-bandwidth-tester)
 - [PCB & Communication Workbench](https://github.com/Rangers9017/pcb-communication-workbench)
 - [Desktop Crosshair Overlay](https://github.com/Rangers9017/desktop-crosshair-overlay)
 - [Privacy-First Micro Tools](https://github.com/Rangers9017/privacy-first-micro-tools)
