@@ -2,6 +2,7 @@
 
 **Electrical & Electronics Engineer | Embedded Software, Automation & Computer Vision**
 
+🌐 [Personal website & engineering blog](https://rangers9017.github.io/)  
 📍 Ankara, Türkiye  
 🎓 B.Sc. in Electrical & Electronics Engineering — Kırıkkale University  
 
@@ -100,9 +101,10 @@ ROS 2 · PX4 · Docker · WPF
 
 ## 📌 Featured Repositories
 
-- [AI-Crafted Tools](https://github.com/Rangers9017/ai-crafted-tools)
-- [C++ RTSP Stream](https://github.com/Rangers9017/Cpp-Rtsp-Stream)
-- [RTSP](https://github.com/Rangers9017/rtsp)
+- [Privacy-First Micro Tools](https://github.com/Rangers9017/privacy-first-micro-tools)
+- [OpenCV RTSP Stream Viewer](https://github.com/Rangers9017/opencv-rtsp-stream-viewer)
+- [ONVIF + RTSP Camera Viewer](https://github.com/Rangers9017/onvif-rtsp-camera-controller)
+- [Personal Blog & Engineering Notes](https://rangers9017.github.io/)
 
 ---
 
